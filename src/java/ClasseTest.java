@@ -10,4 +10,5 @@
 public class ClasseTest {
     String nom;
      String nom2;
+     String nom3;
 }
