@@ -8,5 +8,5 @@
  * @author Ahmet Dame CISSE
  */
 public class ClasseTest {
-    
+    String nom;
 }
