@@ -9,4 +9,5 @@
  */
 public class ClasseTest {
     String nom;
+     String nom2;
 }
